@@ -6,3 +6,5 @@ build/
 nbproject/
 
 out/
+
+.DS_Store
